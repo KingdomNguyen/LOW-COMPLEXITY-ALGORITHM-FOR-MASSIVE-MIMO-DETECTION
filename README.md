@@ -13,7 +13,7 @@
 - [References](#references)
 ## Problem Statement
 
-The problem considered is MIMO (Multiple-Input Multiple-Output) detection in a wireless communication system using 16-QAM (Quadrature Amplitude Modulation). Minimum Mean Square Error algorithm is one the most popular methods to detect MIMO but it requires matrix inversion, which can be computationally expensive for large MIMO systems. In the paper "*A Discrete First-Order Method for Large-Scale MIMO Detection with Provable Guarantees*", authors consider a simple and lowcomplexity discrete first-order method called the Generalized Power Method (GPM) for large-scale MIMO detection. This project focus on their approach (this is not their original code, you may find their source in ![https://huikang2019.github.io/code.html](https://huikang2019.github.io/code.html))
+The problem considered is MIMO (Multiple-Input Multiple-Output) detection in a wireless communication system using 16-QAM (Quadrature Amplitude Modulation). Minimum Mean Square Error algorithm is one the most popular methods to detect MIMO but it requires matrix inversion, which can be computationally expensive for large MIMO systems. In the paper "*A Discrete First-Order Method for Large-Scale MIMO Detection with Provable Guarantees*", authors consider a simple and lowcomplexity discrete first-order method called the Generalized Power Method (GPM) for large-scale MIMO detection. This project focus on their approach (this is not their original code, you may find their source in [https://huikang2019.github.io/code.html](https://huikang2019.github.io/code.html))
 
 ## Methodology
 
